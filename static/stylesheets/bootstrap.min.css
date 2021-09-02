@@ -1,6 +1,6 @@
 .WARNING_IMG
 {
-    width: 11vw;
+    width: 110px;
 }
 
 .TITLE_PAGE_TXT
@@ -22,13 +22,15 @@
 
 .comfirm_btn
 {
-    border-radius: 1.5vh;
-    padding-left: 2.5vw;
-    padding-right: 2.5vw;
-    padding-top: 1.5vh;
-    padding-bottom: 1.5vh;
-    
+    margin-top: 15px;
+    border-radius: 10.5px;
+    padding-left: 12.5px;
+    padding-right: 12.5px;
+    padding-top: 10.5px;
+    padding-bottom: 10.5px;
+    cursor: pointer;
     align-content: center;
     text-align: center;
-    border: .3vh black solid;
+    text-decoration: none;
+    border: 3px black solid;
 }
